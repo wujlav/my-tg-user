@@ -1,0 +1,11 @@
+{
+    "title": "Тестовая новость",
+    "timestamp": "2026-05-16T19:53:00Z",
+    "ofic": true,
+    "brik": false,
+    "test": true,
+    "image_url": "res/Placeholder.png",
+    "content": [
+        "Это тестовая новость для Chicken DLC."
+    ]
+}
