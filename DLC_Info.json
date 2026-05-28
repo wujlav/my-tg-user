@@ -1,11 +1,23 @@
 {
-    "title": "Тестовая новость",
-    "timestamp": "2026-05-16T19:53:00Z",
-    "ofic": true,
-    "brik": false,
-    "test": true,
-    "image_url": "res/Placeholder.png",
-    "content": [
-        "Это тестовая новость для Chicken DLC."
-    ]
+    "dlc_ingame_title": "ВChickenDLC",
+    "event": "none",
+    "dlc_ver": "0.0.0",
+    "dlc_stadion": "Alpha",
+    "dlc_serverhost": "https://2ch.su/b/",
+    "announcements": [
+        {
+            "title": "Тестовая новость",
+            "timestamp": "2026-05-16T19:53:00Z",
+            "ofic": true,
+            "brik": false,
+            "test": true,
+            "image_url": "res/Placeholder.png",
+            "content": [
+                "Это тестовая новость для Chicken DLC."
+            ]
+        }
+    ],
+    "_comment1": "Соцсети",
+    "dlc_tgchan": "CGDLC_Announcements",
+    "dlc_tgimgb": "CGDLC"
 }
