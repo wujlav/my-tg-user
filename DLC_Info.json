@@ -6,6 +6,22 @@
     "dlc_serverhost": "https://2ch.su/b/",
     "announcements": [
         {
+            "title": "Регистрация в Chicken DLC!",
+            "timestamp": "2026-05-30T21:15:00",
+            "ofic": true,
+            "brik": false,
+            "test": false,
+            "image_url": "https://raw.githubusercontent.com/wujlav/my-tg-user/refs/heads/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(98).png",
+            "content": [
+                "С этого момента в Chicken DLC появилась регистрация. Теперь нельзя быть аноном 😩",
+                "",
+                "Но есть и хорошие фичи!",
+                "    • Автоавторизация — тебе не надо логиниться еще раз!",
+                "    • Синхронизация ника — абсолютно работающая!",
+                "",
+                "Скорее регистрируй аккаунт, иначе ты не постреляешь в своих любимых тиммейтов в ПВП!"
+                
+        {
             "title": "Тестовая новость",
             "timestamp": "2026-05-16T19:53:00Z",
             "ofic": true,
