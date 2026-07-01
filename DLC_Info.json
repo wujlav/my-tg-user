@@ -55,17 +55,6 @@
             "content": [
                 "Это тестовая новость для Chicken DLC."
             ]
-        },
-        {
-            "title": "тест",
-            "timestamp": "2026-07-01T22:30",
-            "ofic": true,
-            "brik": false,
-            "test": true,
-            "image_url": "res/Placeholder.png",
-            "content": [
-                "тест"
-            ]
         }
     ],
     "_comment1": "Соцсети",
