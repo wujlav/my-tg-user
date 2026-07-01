@@ -6,6 +6,17 @@
     "dlc_serverhost": "https://2ch.su/b/",
     "announcements": [
         {
+            "title": "ТЕСТ",
+            "timestamp": "2026-07-01T22:32",
+            "ofic": true,
+            "brik": false,
+            "test": true,
+            "image_url": "res/Placeholder.png",
+            "content": [
+                "ТЕСТ"
+            ]
+        },
+        {
             "title": "Аккаунты — В С Ё",
             "timestamp": "2026-06-28T12:00:00",
             "ofic": true,
